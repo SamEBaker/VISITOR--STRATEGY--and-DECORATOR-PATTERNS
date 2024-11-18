@@ -1,2 +1,5 @@
 # VISITOR, STRATEGY, and DECORATOR PATTERNS
- Visitor, Strategy, and Decorator Patterns from Chapter 10, 11, and 12 in DAVID BARON - GAME DEVELOPMENT PATTERNS WITH UNITY 2021
+[Play](https://example.com/image.jpg)
+------------------------------------------------------------
+ ###Visitor, Strategy, and Decorator Patterns
+ -From Chapter 10, 11, and 12 in DAVID BARON - GAME DEVELOPMENT PATTERNS WITH UNITY 2021
